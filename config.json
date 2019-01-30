@@ -375,7 +375,7 @@
         "title":"الجزائر",
         "provider":"youtube",
         "arguments":[
-          "UCTP99Nt2BY_xG6gahWXhK5A",
+          "UCWAt9dF1QFI-g3m2X0FUwzw",
           "channel"
         ]
       },
@@ -407,24 +407,10 @@
           "UCuv25YFiKY3NUnuG7q7F3ng",
           "channel"
         ]
-      },
-	   
-	       {
-        "title":"كورة عربية",
-        "provider":"youtube",
-        "arguments":[
-          "UCe9Wb6D8SQR0gyNfgNLZaiw",
-          "channel"
-        ]
-      },
-	          {
-        "title":"متابعات",
-        "provider":"youtube",
-        "arguments":[
-          "UCMrQESW0BGrblhB9uo3Qg5w",
-          "channel"
-        ]
       }
+	   
+	
+	
 	  
 	  
     ]
