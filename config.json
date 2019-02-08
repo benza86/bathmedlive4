@@ -47,14 +47,7 @@
           "channel"
         ]
       },  
-	      	   {
-        "title":"الاهداف و الملخصات",
-        "provider":"youtube",
-        "arguments":[
-          "UCgPQ-ItOBKAGQSshL0CFA5w",
-          "channel"
-        ]
-      },  
+	       
 	    	   {
         "title":"الاهداف و الملخصات",
         "provider":"youtube",
@@ -156,14 +149,6 @@
         ]
       }
 	   ,
-	       {
-        "title":"مباريات ",
-        "provider":"youtube",
-        "arguments":[
-          "UCgPQ-ItOBKAGQSshL0CFA5w",
-          "channel"
-        ]
-      },  
 	
 	     {
         "title":"مقتطفات",
@@ -194,26 +179,7 @@
 
         ]
       },
-	    
-
- 
-	  
-	     
-	
-
-	
-	     {
-              "title":"تعليق عربي",
-        "provider":"youtube",
-        "arguments":[
-          "UCgPQ-ItOBKAGQSshL0CFA5w",
-          "channel"
-
-        ]
-      }
-	    ,
-	  
-	  	  	
+	   	  	
 
 	    {
         "title":"ملخصات",
@@ -254,17 +220,6 @@
         "provider":"youtube",
         "arguments":[
           "UCUdwSuEopnWNpibR9-dgciw",
-          "channel"
-
-        ]
-      },
-
-	
-      {
-              "title":"تعليق عربي",
-        "provider":"youtube",
-        "arguments":[
-          "UCgPQ-ItOBKAGQSshL0CFA5w",
           "channel"
 
         ]
