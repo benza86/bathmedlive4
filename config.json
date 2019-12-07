@@ -32,6 +32,38 @@
     ]
 
   },
+	   {
+    "title":"ملخصات",
+    "drawable":"",
+    "submenu":"ملخصات 1",
+    "iap":false,
+    "tabs":[
+      {
+        "title":"WebView",
+        "provider":"webview",
+        "arguments":[
+          "https://www.btolat.com/video/type/10/%D9%85%D9%84%D8%AE%D8%B5-%D8%A7%D9%84%D9%85%D8%A8%D8%A7%D8%B1%D9%8A%D8%A7%D8%AA"
+        ]
+      }
+    ]
+
+  },
+	    {
+    "title":"مباريات اليوم",
+    "drawable":"",
+    "submenu":"ملخصات 2",
+    "iap":false,
+    "tabs":[
+      {
+        "title":"WebView",
+        "provider":"webview",
+        "arguments":[
+          "http://www.yalla-shoot.com/live/video.php?type=2"
+        ]
+      }
+    ]
+
+  },
 
   {
     "title":"ملخصات و أهداف",
